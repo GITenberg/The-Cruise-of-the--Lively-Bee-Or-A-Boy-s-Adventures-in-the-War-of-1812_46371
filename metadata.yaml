@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '31523'
     url: http://www.gutenberg.org/2009/agents/31523
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46371#The-Cruise-of-the--Lively-Bee-Or-A-Boy-s-Adventures-in-the-War-of-1812
 gutenberg_issued: '2014-07-22'
 gutenberg_type: Text
 identifiers:
